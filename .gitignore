@@ -4,3 +4,4 @@
 **/*.class
 **/*.hi
 **/__pycache__
+**/*.fasl
